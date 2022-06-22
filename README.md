@@ -40,7 +40,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Titania792&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000"  alt="Titania792" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Titania792&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Titania792" />
   </p>
-  <br />
    <!-- Contribution graph -->
 <p justify-content="center">
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Titania792&theme=react-dark&custom_title=Contribution%20Graph">
