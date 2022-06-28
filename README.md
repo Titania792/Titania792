@@ -31,8 +31,6 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <a href="https://code.visualstudio.com/">
 <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<a href="https://aframe.io/">
-<img alt="=A-FRAME" src="https://img.shields.io/badge/-A--FRAME-EB1444">
 
   <div />
    <br />
