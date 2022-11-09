@@ -5,7 +5,7 @@
 <h1 align="center">Tatiana Fernández</h1>
 <h3 align="center">"Computers are good at following instructions, but not at reading your mind."</h3>
 
-#### Hi there! I'm a programming student passionate about what I like and constantly growing and learning.
+#### Hi there! I'm a programming student passionate about what I like, constantly growing and learning.
 
 - 🌱 I’m currently learning AR/VR at Holberton School
 - 📫 You can reach me trought my [Linkedin](https://www.linkedin.com/in/tatiana-fern%C3%A1ndez-846b6a230/) or [Instagram](https://www.instagram.com/tati_792/)
