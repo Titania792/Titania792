@@ -46,5 +46,7 @@
 [![Spotify](https://spotify-now-playing-titania792.vercel.app/api/spotify)](https://open.spotify.com/user/kazuna79)
 
 <div  />
-<img  src="https://github-readme-stats-titania792.vercel.app//api?username=Titania792&show_icons=true&count_private=true&theme=cobalt&hide_border=true&hide=issues,contribs"  alt="Titania792" />
-<img  src="https://github-readme-stats-titania792.vercel.app/api/top-langs/?username=Titania792&layout=compact&langs_count=6&hide_border=true&theme=cobalt"  alt="Titania792" />
+
+---
+### 📊Github Stats:
+<img  src="https://github-readme-stats-titania792.vercel.app//api?username=Titania792&show_icons=true&count_private=true&theme=cobalt&hide_border=true&hide=issues,contribs"  alt="Titania792" /> <img  src="https://github-readme-stats-titania792.vercel.app/api/top-langs/?username=Titania792&layout=compact&langs_count=8&hide=Shaderlab,HLSL&hide_border=true&theme=cobalt"  alt="Titania792" />
