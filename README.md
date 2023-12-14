@@ -10,8 +10,6 @@
 
 #### Hi there! I'm a software developer from Uruguay passionate about what I like, constantly growing and learning c:
 
-- 🌱 I’m currently learning AR/VR at Holberton School
-
 - 📫 You can reach me trought my [Linkedin](https://www.linkedin.com/in/tatiana-fern%C3%A1ndez-846b6a230/), [Gmail](mailto:tatifernandez34@gmail.com) or [Instagram](https://www.instagram.com/tati_792/)
 
 - 🎮2023 Goals: Increase my professional network and keep learning
